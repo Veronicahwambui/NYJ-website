@@ -1,0 +1,195 @@
+#back{
+    background-image: url("Images/composition-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+    .topnav {
+      overflow: hidden; 
+      /* display: inline-block; */
+      
+     
+    }
+    
+    .topnav a {
+      float:left;
+      color:black;
+      text-align-last: center; 
+      padding: 20px 35px; 
+      text-decoration: none;
+      font-size: 25px;
+     
+
+    }
+    .topnav a:hover {
+      background-color:lightblue;
+      color: white;
+      border-color: 30px solid burlywood;
+     
+    }
+    
+    #log{
+        position: absolute;
+        margin-top: 30px;
+    }
+    #h1{
+        text-align: center;
+        color: rgb(250, 248, 248);
+        padding: 50px;
+        font-size: 70px;
+   }
+   #button{
+     
+    border :1px solid white;
+    padding: 16Px 32px;
+    margin-left: 50%;
+    padding-right:5% ;
+    padding-left:5% ;
+    border-radius: 5%;
+
+   }
+   h2{
+     text-align: center;
+     font-style: italic;
+   }
+   h3{
+     text-align: center;
+     color: black;
+     font-size: 20px;
+   }
+   marquee{
+     font-size: 50px;
+     color: white;
+   }
+  
+   
+    p{
+       text-align: justify;
+       color:black;
+       font-size: 20px;
+   } 
+   #head{
+    
+     text-align: center;
+     color: black;
+   }
+  #par1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+
+   }
+   
+  
+    #text{
+     position: relative;
+     top: 0px;
+     color: black;
+    font-size: 25px;
+   } 
+   #blog{
+     text-align: center;
+     font-size: 30px;
+     color: black;
+    }
+
+
+
+  
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  }
+
+.icon-bar a {
+  display: inline-block; 
+  text-align: center;
+  padding: 16px;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+input[type=text], select, textarea {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  resize: vertical;
+}
+ input[submit]{
+
+  background-color:brown;
+  color: white;
+  padding: 12px 10px;
+  border-radius: 4px;
+ 
+}
+
+input[type=submit]:hover {
+  background-color:rgb(68, 194, 216);
+}
+
+.contact {
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  font-size: 30px;
+  padding: 20px;
+}
+
+  #par2{
+    text-align: center;
+    font-size: 20px;
+  }
+  address{
+  text-align: center;
+  font-size: 30px;
+  }
+
+
+
+.row::after{
+  display: table;
+clear: both;
+}
+  .column{
+    display: flex;
+    padding: 20px;
+    float: left;
+  }
+ body{
+   background-color: rgb(190, 241, 238);
+ } 
+ 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: rgb(223, 195, 195);
+  font-size: 30px;
+}
+ 
+
+  
+
+
+ 
+
+
